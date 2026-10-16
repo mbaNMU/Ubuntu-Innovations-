@@ -19,14 +19,7 @@ Ubuntu Innovations (Pty) Ltd is relocating to a new office and needs a fully doc
 
 **Main requirements:** secure wired and wireless connectivity, shared file storage and printers, employee accounts with department-based access control, endpoint security, backup and recovery, security policies, troubleshooting procedures, and documentation that future IT staff can use.
 
-## Team
-
-| Team member | Main responsibility (Week 1) | Secondary responsibility |
-|---|---|---|
-| Sinalo | Business Requirements Analysis | Final consistency check |
-| Luthando | Hardware Inventory and Software Inventory | Formatting / document quality |
-| Mbali | Network Diagram (Version 1) | Technical consistency |
-| Masibulele | Troubleshooting Log | Final completeness check |
+by Mbali Entle Mpendu
 
 **Mentor:** [Mentor name]
 
