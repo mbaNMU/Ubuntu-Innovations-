@@ -21,7 +21,7 @@ Ubuntu Innovations (Pty) Ltd is relocating to a new office and needs a fully doc
 
 by Mbali Entle Mpendu
 
-**Mentor:** [Mentor name]
+**Mentor:** Omphile Rantswele
 
 ## Repository structure
 
